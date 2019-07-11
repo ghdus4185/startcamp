@@ -1,0 +1,19 @@
+/* 여기는 css 파일입니다. */
+
+h1{
+    background-color:rgb(149, 238, 149);   
+}
+a{
+    color:rgb(49, 155, 102);
+}
+.blue{
+    background-color:rgb(24, 154, 206);
+}
+#git {
+    background-color:greenyellow;
+}
+a {
+    font-family: verdana;
+    font-size: 100px;
+  }
+</style>
